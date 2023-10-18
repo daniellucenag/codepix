@@ -1,0 +1,3 @@
+sintax = "proto3";
+
+package github.com.daniellucenag.codepix
